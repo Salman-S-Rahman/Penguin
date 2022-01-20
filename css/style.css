@@ -81,6 +81,9 @@ a {
 }
 
 /* ============ banner part end ========== */
+.title {
+    color: #363958;
+}
 
 .jacket_details h3 {
     color: #363958;
@@ -90,9 +93,13 @@ a {
     color: #3E3E3E;
 }
 
-.price h2{
+.price h2 {
     color: #FABE4C;
     font-size: 2rem;
+}
+
+.jacket_bg {
+    background: #f1f1f1;
 }
 
 /* ============ header part end ========== */
