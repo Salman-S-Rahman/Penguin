@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
 ul,
 ol {
     list-style: none;
@@ -34,6 +38,42 @@ a {
 
 /* ============ header part end ========== */
 
+#banner_part {
+    background: #FFFBF0;
+}
+
+.btn-color {
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border-image: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border-radius: 10px;
+    box-shadow: 0 0 0 .25rem transparent;
+    color: #fff;
+    font-weight: 500;
+}
+
+.btn-color:hover {
+    color: #fff;
+}
+
+.btn:focus {
+    box-shadow: 0 0 0 .25rem #A4BC46;
+}
+
+.banner_text h1 {
+    color: #FABE4C;
+    font-size: 5rem;
+    font-family: 'Bebas Neue', cursive;
+    padding-top: 80px;
+}
+
+.banner_text h1 span {
+    color: #363958;
+}
+
+.banner_text p {
+    color: #3E3E3E;
+    font-weight: 600;
+}
 
 
 /* ============ banner part end ========== */
