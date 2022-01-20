@@ -47,7 +47,7 @@ a {
     background: #FFFBF0;
 }
 
-.banner_text .btn-color {
+.btn-color {
     background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
     border-image: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
     border-radius: 10px;
@@ -56,11 +56,11 @@ a {
     font-weight: 600;
 }
 
-.banner_text .btn-color:hover {
+.btn-color:hover {
     color: #fff;
 }
 
-.banner_text .btn:focus {
+.btn:focus {
     box-shadow: 0 0 0 .25rem #A4BC46;
 }
 
@@ -82,8 +82,18 @@ a {
 
 /* ============ banner part end ========== */
 
+.jacket_details h3 {
+    color: #363958;
+}
 
+.jacket_details p {
+    color: #3E3E3E;
+}
 
+.price h2{
+    color: #FABE4C;
+    font-size: 2rem;
+}
 
 /* ============ header part end ========== */
 /* ============ header part end ========== */
