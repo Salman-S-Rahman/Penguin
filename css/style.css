@@ -40,13 +40,16 @@ a {
 .navbar-light .navbar-nav .nav-link.active {
     color: #474A66;
 }
+
 .navbar-light .navbar-toggler {
     color: #85A019;
     border-color: #85A019;
 }
+
 .navbar-toggler:focus {
     box-shadow: 0 0 0 .25rem;
 }
+
 /* ============ header part end ========== */
 
 #banner_part {
@@ -108,8 +111,5 @@ a {
     background: #f1f1f1;
 }
 
-/* ============ header part end ========== */
-/* ============ header part end ========== */
-/* ============ header part end ========== */
-/* ============ header part end ========== */
+/* ============ contact part end ========== */
 /* ============ header part end ========== */
